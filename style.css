@@ -1,0 +1,185 @@
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.icons {
+    font-size: 4rem;
+}
+
+.bg-full {
+    background-image: url(https://bootstrapmade.com/demo/templates/Yummy/assets/img/stats-bg.jpg);
+    /* height: 35vh; */
+}
+
+.eggs h1 {
+    font-size: 4rem;
+}
+
+.eggs p {
+    color: #95938A;
+}
+
+hr {
+    height: 8px;
+    width: 50px;
+    align-items: center;
+
+}
+
+.slider {
+    /* height: 60vh; */
+    background-color: #EEEEEE;
+
+}
+
+.redaois img {
+    border-radius: 50%;
+}
+
+span {
+    color: #CE1240;
+}
+
+/* .section2{
+    background-color: #EEEEEE;
+    height: 600px;
+} */
+i {
+    color: #CE1240;
+
+}
+
+.privite1 {
+    background-image: url(https://bootstrapmade.com/demo/templates/Yummy/assets/img/events-1.jpg);
+    height: 500px;
+}
+
+.privite2 {
+    background-image: url(https://bootstrapmade.com/demo/templates/Yummy/assets/img/events-3.jpg);
+    height: 500px;
+}
+
+.privite3 {
+    background-image: url(https://bootstrapmade.com/demo/templates/Yummy/assets/img/events-2.jpg);
+    height: 500px;
+}
+
+.privite4 {
+    background-image: url(https://bootstrapmade.com/demo/templates/Yummy/assets/img/events-3.jpg
+);
+    height: 500px;
+}
+
+.privite h2 {
+    margin-top: 300px;
+}
+
+.Chefs {
+    background-color: #EEEEEE;
+}
+
+.our {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.form1 {
+    background-color: #EEEEEE;
+}
+
+.gallery {
+    background-color: #EEEEEE;
+}
+
+.slide-img img {
+    transition: all 0.3s;
+}
+
+.slide-img img:hover {
+    scale: 1.2;
+    border: 10px solid red;
+}
+
+.mapss i {
+    font-size: 2rem;
+    color: white;
+    background-color: #CE1240;
+    border-radius: 50%;
+    padding: 1rem;
+}
+
+.location {
+    background-color: #EEEEEE;
+}
+
+.last {
+    background-color: #EEEEEE;
+}
+
+.l-icon {
+    font-size: 2rem;
+}
+
+.nnav {
+    background-color: #1F1F24;
+}
+
+.last-hr {
+    width: 80%;
+    margin: auto;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    .enjoy {
+        flex-direction: column-reverse;
+    }
+
+    .eggs {
+        flex-direction: column;
+        gap: 5rem;
+    }
+
+    .slider {
+        /* height: 60vh; */
+        background-color: #EEEEEE;
+        text-align: center;
+    }
+
+    .email {
+        gap: 1rem;
+    }
+
+    .birth {
+        text-align: center;
+    }
+
+    .share {
+        text-align: center;
+    }
+
+    .nnav {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .pic-pr {
+        width: 100%;
+    }
+
+    .problem {
+        width: 90%;
+        margin: auto;
+        background-color: #CE1212;
+    }
+
+    .main-nav {
+        justify-content: center;
+    }
+
+
+
+}
